@@ -1,0 +1,4 @@
+macos-titlebar-style = tabs
+window-padding-x = 10
+background-opacity = 0.9
+background-blur = true
