@@ -32,8 +32,7 @@ alias vim=nvim
 
 # Python
 alias py=python
-alias python=python3
-alias pip=pip3
+alias python='uv run python'
 
 # Yarn
 alias yt='yarn test'
