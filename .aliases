@@ -26,10 +26,6 @@ alias grom='git rebase $(git rev-parse --abbrev-ref origin/HEAD)'
 alias amend='git commit --amend --no-edit'
 alias force='git push --force-with-lease'
 
-# Neovim
-alias vi=nvim
-alias vim=nvim
-
 # Python
 alias py=python
 alias python='uv run python'
