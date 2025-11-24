@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Shell aliases
-alias ll='ls -ahlFG'
+alias ll='ls -AFGhl'
 alias d='cd ~/Downloads'
 
 alias ..='cd ..'
