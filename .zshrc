@@ -6,6 +6,6 @@ setopt HIST_REDUCE_BLANKS
 source $HOMEBREW_PREFIX/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $HOMEBREW_PREFIX/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-PS1='%F{blue}%~ %(?.%F{green}.%F{red})%#%f '
+PS1='%(?.%F{green}.%F{red})%#%f '
 
 source <(fzf --zsh)
