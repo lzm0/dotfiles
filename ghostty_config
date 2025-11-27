@@ -1,5 +1,5 @@
 # https://ghostty.org/docs/config/reference
-theme = Dracula
+theme = GitHub Dark Default
 background-opacity = 0.95
 background-blur = true
 font-size = 16
