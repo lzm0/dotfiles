@@ -6,3 +6,4 @@ font-size = 16
 window-width = 10000
 window-height = 10000
 window-new-tab-position = end
+macos-titlebar-style = tabs
