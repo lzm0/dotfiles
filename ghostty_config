@@ -7,3 +7,6 @@ window-width = 10000
 window-height = 10000
 window-new-tab-position = end
 macos-titlebar-style = tabs
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = true
