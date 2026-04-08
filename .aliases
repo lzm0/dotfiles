@@ -29,6 +29,7 @@ alias force='git push --force-with-lease'
 # Python
 alias py=python
 alias python='uv run python'
+alias python3='uv run python'
 
 # Yarn
 alias yt='yarn test'
